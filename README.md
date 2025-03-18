@@ -1,5 +1,5 @@
 # InoviceManagement by Ivan Cervantes
- Project to develop a simple Inovice Management system  using SQL to store information and JavaFX to display a friendly interrface
+ Project to develop a simple Inovice Management system  using SQL to store information and JavaFX to display a friendly interface
 
 ## Database Setup
 1.  Download the database.sql file from the database folder.
